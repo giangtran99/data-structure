@@ -5,6 +5,6 @@
       "emitDecoratorMetadata": true,
       
     },
-    "files":["singly-linked-link.ts"],
-    "include": ["singly-linked-link.ts"]
+    "files":["structures/singly-linked-link.ts"],
+    "include": ["structures/singly-linked-link.ts"]
 }
