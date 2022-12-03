@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es2015",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      
+    },
+    "files":["singly-linked-link.ts"],
+    "include": ["singly-linked-link.ts"]
+}
