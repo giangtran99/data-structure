@@ -10,7 +10,7 @@ class _Node {
 
 class _SinglyLinkedList {
     list: any
-    tail: any
+    tail: _Node
     constructor() {
         this.list = null
         this.tail = null
@@ -83,4 +83,6 @@ list1.remove()
 
 
 list1.scan()
+
+export default _SinglyLinkedList
 
